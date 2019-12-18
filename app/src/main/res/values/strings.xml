@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoV1</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="title_activity_registrarse">RegistrarseActivity</string>
+</resources>
